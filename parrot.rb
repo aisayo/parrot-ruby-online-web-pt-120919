@@ -17,6 +17,6 @@ def example(name)
   puts name 
 end 
 
-example
+example(student_name)
 
 wrong number of arguments (given 0, expected 1)
