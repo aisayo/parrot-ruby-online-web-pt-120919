@@ -10,6 +10,6 @@
 #use placeholders for arguments: variables 
 
 def parrot
-  
+  puts "Squawk!"
 end 
 
