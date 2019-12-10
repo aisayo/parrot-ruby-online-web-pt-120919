@@ -11,7 +11,7 @@
 
 def parrot(phrase = "Squawk!")
   puts phrase
-  phrase
+  return phrase
 end 
 
 #difference puts and return 
