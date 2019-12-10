@@ -11,9 +11,6 @@
 
 def example
   name = "aysan"
-
-
-def example_statement
   puts name
 end 
 
