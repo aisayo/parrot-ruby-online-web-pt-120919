@@ -14,5 +14,5 @@ def parrot(phrase = "Squawk!")
   return phrase
 end 
 
-parrot("aysan")
+#difference puts and return 
 
