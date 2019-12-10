@@ -9,10 +9,10 @@
 #methods can also accept arguments: data being utilized in the scope of that method 
 #use placeholders for arguments: variables 
 
-def parrot(phrase)
+def parrot(phrase = "Squawk!")
   puts phrase
   return phrase
 end 
 
-parrot("not a default")
+parrot
 
