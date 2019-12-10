@@ -19,4 +19,3 @@ example
 
 
 
-parrot.rb:17:in `example_statement': undefined local variable or method `name' for main:Object (NameError)
