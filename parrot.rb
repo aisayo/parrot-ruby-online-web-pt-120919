@@ -19,4 +19,4 @@ end
 
 example
 
-
+wrong number of arguments (given 0, expected 1)
