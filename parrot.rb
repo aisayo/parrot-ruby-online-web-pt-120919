@@ -12,5 +12,12 @@ def example("aysan")
   
 end 
 
+def example("paul")
+  
+end 
+
+def example("asha")
+  
+end 
 
 
