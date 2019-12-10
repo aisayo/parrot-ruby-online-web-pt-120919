@@ -17,5 +17,6 @@ def example(name)
   puts name 
 end 
 
+example
 
 
