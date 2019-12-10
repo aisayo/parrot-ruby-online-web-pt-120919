@@ -8,18 +8,9 @@
 #methods are boxes that encapsulate some type of logic
 #methods can also accept arguments: data being utilized in the scope of that method 
 
-
 def example
-  name = "aysan"
+  
 end 
-
-def example_statement
-  example
-  puts name
-end 
-
-example
-example_statement
 
 
 
