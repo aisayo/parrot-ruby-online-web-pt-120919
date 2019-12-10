@@ -8,7 +8,7 @@
 #methods are boxes that encapsulate some type of logic
 #methods can also accept arguments: data being utilized in the scope of that method 
 
-def example
+def example("aysan")
   
 end 
 
