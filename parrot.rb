@@ -9,7 +9,7 @@
 #methods can also accept arguments: data being utilized in the scope of that method 
 #use placeholders for arguments: variables 
 
-def parrot
+def parrot(phrase )
   puts "Squawk!"
 end 
 
