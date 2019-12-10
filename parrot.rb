@@ -21,6 +21,5 @@ example
 example_statement
 
 
-Traceback (most recent call last):
-        1: from parrot.rb:21:in `<main>'
+
 parrot.rb:17:in `example_statement': undefined local variable or method `name' for main:Object (NameError)
