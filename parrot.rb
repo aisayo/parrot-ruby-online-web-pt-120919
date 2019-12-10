@@ -10,7 +10,7 @@
 #use placeholders for arguments: variables 
 
 def parrot(phrase = "Squawk!")
-  # puts phrase
+  puts phrase
   return phrase
 end 
 
