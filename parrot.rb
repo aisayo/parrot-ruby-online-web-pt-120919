@@ -16,3 +16,6 @@ end
 def example_statement
   puts name
 end 
+
+example
+example_statement
