@@ -7,17 +7,11 @@
 
 #methods are boxes that encapsulate some type of logic
 #methods can also accept arguments: data being utilized in the scope of that method 
+#use placeholders for arguments: variables 
 
 def example("aysan")
   
 end 
 
-def example("paul")
-  
-end 
-
-def example("asha")
-  
-end 
 
 
