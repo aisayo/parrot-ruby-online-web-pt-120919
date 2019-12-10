@@ -11,11 +11,15 @@
 
 def example
   name = "aysan"
+end 
+
+def example_statement
+  example
   puts name
 end 
 
 example
-
+example_statement
 
 
 
